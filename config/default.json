@@ -1,0 +1,5 @@
+{
+    "name":"My Application",
+    "db":"mongodb+srv://mittal:Uq0LAkhVaB6g8Zm0@mapplicationcluster0-lkdkw.mongodb.net/employeedatabase?retryWrites=true&w=majority",
+    "jwtPrivateKey":""
+}

@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey":"app_project_jwtPrivateKey",
+    "GMAIL_EMAIL":"app_gmail",
+    "GMAIL_PASSWORD":"app_password"
+}
