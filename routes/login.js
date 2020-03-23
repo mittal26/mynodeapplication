@@ -121,7 +121,7 @@ router.post('/forgot', (req, res, next)=> {
                 }
             });
 
-            let mailOptions = {
+            let mailOptions = { 
                 to: user.email,
                 from : 'Application Name',
                 subject : 'Recovery Email from Auth Project',
