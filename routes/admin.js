@@ -25,6 +25,7 @@ async function scrapeData(url, page) {
         const $ = await cheerio.load(html);
 
         let title = $("h1").getAttribute('content');
+        console.log(title);
         let price = $(".price-characteristic").attr("content");
 
         if(!price) {
